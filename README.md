@@ -26,13 +26,3 @@ Informação das colunas:
 13.	Relative Humidity (%) 
 14.	AH Absolute Humidity 
 
-Perguntas que vamos tentar responder:
-
-1.	Escolha uma estratégia de tratamento de valores faltantes e outliers e justifique sua escolha.
-2.	Para as quartas-feiras, quais os horários de pico na cidade (de maior concentração de CO) ?
-3.	Quais as variáveis mais correlacionadas com a variável de predição?
-4.	Crie um modelo de regressão de PT08.S1 a partir das demais variáveis. Avalie usando as métricas que julgar pertinente para o problema.
-5.	Pergunta bônus: como as estações do ano interferem nas variáveis/predição e qual sua proposta de solução? 
-Essas perguntas servem apenas para direcionar a análise. Sinta-se livre para surpreender. 
-
-
